@@ -3,7 +3,7 @@ Contenido del proyecto final de computacion grafica
 <div align="center">
 <h1>Proyecto Final para la materia de computación gráfica. </h1><br>
 <h2>Zoológico virtual </h2> <br>
-<h2>Equipo 7:</h2><br><br>
+<h2>Equipo 9:</h2><br><br>
 
 ▶️ Moreno Duran Jaime      <br>
 
