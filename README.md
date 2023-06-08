@@ -10,5 +10,5 @@ Contenido del proyecto final de computacion grafica
 <h3> Semestre 2023-2 | Grupo: 3</h3>
 </div>
 <div align="Center">
-    <img src="img/captura.jpg" alt="Descarga 1" width="400" height="300"></img>
+    <img src="img/Captura.jpg" alt="Descarga 1" width="400" height="300"></img>
 <div align="justify">
