@@ -53,7 +53,7 @@
     <ClCompile Include="glad.c">
       <Filter>Archivos de origen\Archivos de encabezado</Filter>
     </ClCompile>
-    <ClCompile Include="Final (3).cpp">
+    <ClCompile Include="Final Proyecto.cpp">
       <Filter>Archivos de origen\Archivos de encabezado</Filter>
     </ClCompile>
   </ItemGroup>
